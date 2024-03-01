@@ -1,0 +1,19 @@
+{
+    "name": "Cricket Scorecard Extension",
+    "version": "1.0.0",
+    "description": "Display ongoing cricket matches with scorecards",
+    "manifest_version": 3,
+    "author": "Sarthak Gupta",
+    "icons": {
+      "256": "icons.png"
+    },
+    "action": {
+      "default_popup": "extension.html",
+      "default_title": "Pdhle bhai cricket se ghr ni chlega"
+    },
+    "permissions": [
+      "activeTab",
+      "storage"
+    ]
+}
+  
